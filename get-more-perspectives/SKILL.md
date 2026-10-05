@@ -1,14 +1,14 @@
 ---
-name: get-more-perspectives
-description: "Convenes a structured advisory panel (Expert, Skeptic, Creative, Researcher, Architect, Visionary) to evaluate an idea, strategy, or dilemma. Trigger ONLY when explicitly invoked by keyword (e.g., /get-more-perspectives)."
+name: panel-of-experts
+description: "Convenes a structured advisory panel (Expert, Skeptic, Creative, Researcher, Architect, Visionary) to evaluate an idea, strategy, or dilemma. Trigger ONLY when explicitly invoked by keyword (e.g., /panel-of-experts)."
 ---
-# Get More Perspectives
+# Panel of Experts
 
 Convenes a specialized virtual advisory panel to thoroughly analyze, pressure-test, refine, and synthesize an idea, plan, claim, or decision.
 
 ## Triggering Rules
 
-  - **Explicit Keyword Only:** Activate this workflow ONLY when explicitly invoked by keyword (e.g., `/get-more-perspectives` or direct mentions of "get more perspectives"). Do not auto-trigger on general queries.
+  - **Explicit Keyword Only:** Activate this workflow ONLY when explicitly invoked by keyword (e.g., `/panel-of-experts` or direct mentions of "panel of experts"). Do not auto-trigger on general queries.
 
 -----
 
